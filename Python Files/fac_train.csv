@@ -1,0 +1,21 @@
+InvoiceID,Date,Description,Total,Status
+INV1001,2025-08-01,App maintenance,1397.33,2
+INV1002,2025-08-03,SEO optimization,589.47,0
+INV1003,2025-08-05,Monthly hosting,1093.56,1
+INV1004,2025-08-07,Consulting session,1548.22,0
+INV1005,2025-08-09,Website design services,873.12,1
+INV1006,2025-08-11,Cloud backup,203.95,1
+INV1007,2025-08-13,Email marketing,1452.77,0
+INV1008,2025-08-15,Social media management,755.10,2
+INV1009,2025-08-17,Logo design,1221.44,2
+INV1010,2025-08-19,Server upgrade,1880.63,0
+INV1011,2025-08-20,App maintenance,667.89,1
+INV1012,2025-08-21,Monthly hosting,135.00,1
+INV1013,2025-08-22,Cloud backup,486.32,0
+INV1014,2025-08-23,SEO optimization,1199.99,2
+INV1015,2025-08-24,Logo design,399.50,1
+INV1016,2025-08-25,Consulting session,255.00,0
+INV1017,2025-08-26,Website design services,1666.88,2
+INV1018,2025-08-27,Email marketing,911.11,1
+INV1019,2025-08-28,Server upgrade,1344.20,0
+INV1020,2025-08-29,Social media management,789.77,1

@@ -1,0 +1,11 @@
+InvoiceID,Date,Description,Total,Status
+INV2001,2025-08-01,Cloud backup,312.45,1
+INV2002,2025-08-04,Website design services,1588.67,2
+INV2003,2025-08-07,Logo design,899.99,0
+INV2004,2025-08-10,Consulting session,425.50,0
+INV2005,2025-08-12,App maintenance,1233.89,1
+INV2006,2025-08-15,Email marketing,678.33,1
+INV2007,2025-08-18,SEO optimization,1022.44,2
+INV2008,2025-08-21,Monthly hosting,188.00,1
+INV2009,2025-08-25,Social media management,1377.66,0
+INV2010,2025-08-28,Server upgrade,1999.99,2
